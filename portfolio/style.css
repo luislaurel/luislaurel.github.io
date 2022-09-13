@@ -291,29 +291,37 @@ h6 {
 .vertical {
       margin-top: 40px;
       border-left: 1px solid #fff;
-      height: 80px;
+      height: 200px;
       position: absolute;
       left: 50%;
 }
 
 .project {
-      height: 500px;
+      height: 550px;
+
 }
 
 .project1 {
-      background: url(https://images.unsplash.com/photo-1540349220179-09d3866f2e74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2600&q=80) no-repeat 50% 50%;
-      background-size: cover;
+      background: url(https://i.gyazo.com/b76eb9b24bce43c83dc70b62e4ffd1e2.png) no-repeat 50% 50%;
+      background-size:100%;
+      background-position: center;
 }
 
+
+.projectimage1 {
+      background: url(https://i.gyazo.com/b76eb9b24bce43c83dc70b62e4ffd1e2.png) no-repeat 50% 50%;
+      background-size:100%;
+      background-position: center;
+}
 .project1::after {
-      content: "Project 1";
+      content: "Text-based Ruby game";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
       color: #fff;
       display: block;
       top: 8%;
-      left: -60%;
+      left: -90%;
       right: 0;
       bottom: 0;
 }
@@ -519,7 +527,7 @@ h6 {
       margin-top: 120px;
 }
 
-.image {
+.image1 {
       background: url(https://qualabear.com/wp-content/uploads/2021/06/Career-in-Market-Research.gif) no-repeat 50% 70%;
 }
 
