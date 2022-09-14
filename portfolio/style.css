@@ -327,7 +327,7 @@ h6 {
 }
 
 .project2 {
-      background: url(https://images.unsplash.com/photo-1468870045442-e7d799d8c98a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2448&q=80) no-repeat 50% 50%;
+      background: url(https://cdn.crispedge.com/a7aeb4.png) no-repeat 50% 50%;
       background-size: cover;
 }
 
@@ -345,7 +345,7 @@ h6 {
 }
 
 .project3 {
-      background: url(https://images.unsplash.com/photo-1482501157762-56897a411e05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80) no-repeat 50% 50%;
+      background: url(https://cdn.crispedge.com/a7aeb4.png) no-repeat 50% 50%;
       background-size: cover;
 }
 
@@ -363,7 +363,7 @@ h6 {
 }
 
 .project4 {
-      background: url(https://images.unsplash.com/photo-1435685813800-51ba4ceb9c4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1785&q=80) no-repeat 50% 50%;
+      background: url(https://cdn.crispedge.com/a7aeb4.png) no-repeat 50% 50%;
       background-size: cover;
 }
 
@@ -644,3 +644,12 @@ textarea:focus {
 
 
 
+.removebullets {
+      list-style-type: none;
+      font-size: 30px;
+}
+
+.projectlink {
+      list-style-type: none;
+      font-size:20px
+}
