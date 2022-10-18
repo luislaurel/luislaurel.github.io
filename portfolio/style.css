@@ -57,7 +57,7 @@ html, body {
             }
       }
 }
-
+ 
 @keyframes blinkTextCussor {
       from {
             border-right-color: rgba(255, 255, 255, 0.75);
@@ -302,19 +302,19 @@ h6 {
 }
 
 .project1 {
-      background: url(https://i.gyazo.com/b76eb9b24bce43c83dc70b62e4ffd1e2.png) no-repeat 50% 50%;
+      background: url(./photos/lifthome.png) no-repeat 50% 50%;
       background-size:100%;
       background-position: center;
 }
 
 
 .projectimage1 {
-      background: url(https://i.gyazo.com/b76eb9b24bce43c83dc70b62e4ffd1e2.png) no-repeat 50% 50%;
+      background: url(./photos/lifthome.png) no-repeat 50% 50%;
       background-size:100%;
       background-position: center;
 }
 .project1::after {
-      content: "Text-based Ruby game";
+      content: "Fullstack Web Application";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
