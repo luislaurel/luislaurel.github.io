@@ -312,6 +312,27 @@ h6 {
       background: url(./photos/lifthome.png) no-repeat 50% 50%;
       background-size:100%;
       background-position: center;
+      border: 1px   rgb(131, 36, 36);
+}
+.projectimage2 {
+      background: url(./photos/Dashboard.png) no-repeat 50% 50%;
+      background-size: 100%;
+      background-position: center;
+}
+.projectimage3 {
+      background: url(./photos/Read.png) no-repeat 50% 50%;
+      background-size: 100%;
+      background-position: center;
+}
+.projectimage4 {
+      background: url(./photos/Update.png) no-repeat 50% 50%;
+      background-size: 100%;
+      background-position: center;
+}
+.projectimage5 {
+      background: url(./photos/Delete.png) no-repeat 50% 50%;
+      background-size: 100%;
+      background-position: center;
 }
 .project1::after {
       content: "Fullstack Web Application";
